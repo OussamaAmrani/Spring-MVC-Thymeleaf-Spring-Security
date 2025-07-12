@@ -1,6 +1,6 @@
 
 <h1>Spring-MVC-Thymeleaf-Spring-Security</h1>
-<img src="Screenshots/1.PNG">
+<img src="Tp-Spring-Boot-basics-main/Screenshots/1.PNG">
 <img src="screenshots/2.PNG">
 <img src="screenshots/3.PNG">
 <img src="screenshots/4.PNG">
